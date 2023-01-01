@@ -1,0 +1,5 @@
+titre	localisation	code	nb_exp	type
+khalifa	khfa/aaaa	12	3     	magasine	
+aaa	aaa/aaaa	87	2	magasine	
+fhsdkfhsdkfd	aaa/aaaa	17	3	article	
+layla	salle1/rand1	58	3	livre	

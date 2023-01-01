@@ -1,0 +1,13 @@
+nom	prenom	id	adresse	type
+
+aaaa	kh	12455	sousse	etud	
+bbbb	khj	345	sousse	ensei	
+
+khsofhsdq	fjdlfsdh	dfsdlfsd	fhdoflhsd	visit	
+lol	lol	41	lol	visit	
+anis	ben	44	mahdia	etud	
+chelbi	chelbi	45	fjsdfjsd	ensei	
+jfsdjg	lsdfgh	41	sdlfgsdjh	ensei	
+kiki	kiki	12	kiki	ensei	
+dfhsdjl	fkdjfhsd	16	sdlfsdl	etud	
+hichem	otay	39	france	visit	
